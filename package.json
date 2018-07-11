@@ -1,7 +1,7 @@
 {
-  "name": "vue-pizza",
+  "name": "vueSynth",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "vueSynth",
   "author": "Yi Rui <yrui@sankyinc.com>",
   "private": true,
   "scripts": {

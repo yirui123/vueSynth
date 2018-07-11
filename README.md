@@ -1,4 +1,4 @@
-# vue-pizza
+# vueSynth
 
 > A Vue.js project
 
