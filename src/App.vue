@@ -8,29 +8,18 @@
 
 <script>
 export default {
-  name: 'app'
-}
+  name: "app"
+};
 </script>
 
 <style>
 body {
   margin: 0;
+  background-color: lightblue;
 }
-.myBox {
-  border: solid 1px;
-  padding: 10px;
-  margin: 5px;
-  cursor: pointer;
-}
-.myBox:hover {
-  background: lightgray;
-}
-
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #2c3e50;
 }
-
 </style>
