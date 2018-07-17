@@ -10,10 +10,21 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "@tensorflow/tfjs": "^0.12.2",
+    "dat.gui": "^0.7.2",
+    "idempotent-babel-polyfill": "^6.26.0",
+    "ml5": "0.0.8",
+    "oimo": "^1.0.9",
+    "p": "^0.2.0",
+    "p5": "^0.6.1",
     "paper": "^0.11.5",
+    "three": "^0.94.0",
+    "three-orbit-controls": "^82.1.0",
     "tone": "^13.2.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vue-threejs": "^0.1.1",
+    "vue-webcam": "^2.0.4"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.5",
